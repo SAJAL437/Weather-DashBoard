@@ -1,12 +1,39 @@
-# React + Vite
+# 🌦️ Responsive Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive weather application built using **React**, **Tailwind CSS**, and **WeatherAPI**.  
+This app allows users to get current weather, hourly and daily forecasts for any city or their current location, with beautiful weather-based icons and dynamic UI backgrounds.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📍 Get weather using your **current location**
+- 🔍 **Search** weather by city name
+- 🏙️ Predefined main cities like Delhi, Lucknow, Chicago, etc.
+- 🌡️ Switch between **Celsius** and **Fahrenheit**
+- ⏱️ Toggle between **Hourly** and **Daily** forecasts
+- 🎨 Weather-based icons and background colors
+- 💡 Debounced search input for better UX
+- 🔁 Manual data **refresh** button
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- **React.js** – Frontend Framework  
+- **Tailwind CSS** – Styling  
+- **Axios** – HTTP requests  
+- **WeatherAPI** – Weather data  
+- **Lodash.debounce** – Debounced input handling  
+- **React Icons** – Icons for UI
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots here if available)*  
+> You can take screenshots of your UI and add them to a `/screenshots` folder, then link them like this:
+
+```markdown
+![Homepage](./screenshots/p1.jpg)
+![](./screenshots/p2.jpg)
