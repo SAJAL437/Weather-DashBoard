@@ -27,6 +27,10 @@ This app allows users to get current weather, hourly and daily forecasts for any
 - **Lodash.debounce** – Debounced input handling
 - **React Icons** – Icons for UI
 
+## 🖥️ desktop View
+<img src="/public/screenshots/d1.jpg" alt="Weather Dashboard" width="400" height="500"/>
+
+
 ---
 ![Homepage](/public/screenshots/p1.jpg)
 ![](/public/screenshots/p2.jpg)
