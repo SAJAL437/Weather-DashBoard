@@ -28,7 +28,7 @@ This app allows users to get current weather, hourly and daily forecasts for any
 - **React Icons** – Icons for UI
 
 ## 🖥️ desktop View
-<img src="/public/screenshots/db.png" alt="Weather Dashboard" width="400" height="500"/>
+<img src="/public/screenshots/db.png" alt="Weather Dashboard" width="800" height="600"/>
 
 
 ---
