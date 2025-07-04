@@ -20,13 +20,18 @@ This app allows users to get current weather, hourly and daily forecasts for any
 
 ## 🧰 Tech Stack
 
-- **React.js** – Frontend Framework  
-- **Tailwind CSS** – Styling  
-- **Axios** – HTTP requests  
-- **WeatherAPI** – Weather data  
-- **Lodash.debounce** – Debounced input handling  
+- **React.js** – Frontend Framework
+- **Tailwind CSS** – Styling
+- **Axios** – HTTP requests
+- **WeatherAPI** – Weather data
+- **Lodash.debounce** – Debounced input handling
 - **React Icons** – Icons for UI
 
 ---
-![Homepage](/public/screenshots/p1.jpg)
-![](/public/screenshots/p2.jpg)
+## 🖥️ desktop View
+<img src="/public/screenshots/d1.jpg" alt="Weather Dashboard" width="400" height="500"/>
+
+---
+## 📱 Mobile View
+<img src="/public/screenshots/p1.jpg" alt="Weather Dashboard" width="400" height="500"/>
+<img src="/public/screenshots/p2.jpg" alt="Weather Dashboard" width="400" height="500"/>

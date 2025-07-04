@@ -1,5 +1,4 @@
 import React from 'react'
-import { WeatherApi } from './Component/Home'
 import Weather from './Component/weather'
 
 
