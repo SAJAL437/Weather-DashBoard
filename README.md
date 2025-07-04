@@ -35,5 +35,5 @@ This app allows users to get current weather, hourly and daily forecasts for any
 
 ## mobile view
 
-<img src="/public/screenshots/p1.png" alt="Weather Dashboard" width="400" height="400"/>
-<img src="/public/screenshots/p2.png" alt="Weather Dashboard" width="400" height="400"/>
+<img src="/public/screenshots/p1.jpg" alt="Weather Dashboard" width="400" height="400"/>
+<img src="/public/screenshots/p2.jpg" alt="Weather Dashboard" width="400" height="400"/>
