@@ -28,12 +28,5 @@ This app allows users to get current weather, hourly and daily forecasts for any
 - **React Icons** – Icons for UI
 
 ---
-
-## 📸 Screenshots
-
-> *(Add screenshots here if available)*  
-> You can take screenshots of your UI and add them to a `/screenshots` folder, then link them like this:
-
-```markdown
-![Homepage](./screenshots/p1.jpg)
-![](./screenshots/p2.jpg)
+![Homepage](/public/screenshots/p1.jpg)
+![](/public/screenshots/p2.jpg)
