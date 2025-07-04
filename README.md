@@ -28,5 +28,6 @@ This app allows users to get current weather, hourly and daily forecasts for any
 - **React Icons** – Icons for UI
 
 ---
+## 📱 Mobile View
 ![Homepage](/public/screenshots/p1.jpg)
 ![](/public/screenshots/p2.jpg)
